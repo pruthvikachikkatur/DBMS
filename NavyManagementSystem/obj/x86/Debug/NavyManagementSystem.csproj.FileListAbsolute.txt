@@ -1,0 +1,34 @@
+C:\Users\ADMIN\documents\visual studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\bin\Debug\NavyManagementSystem.exe
+C:\Users\ADMIN\documents\visual studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\bin\Debug\NavyManagementSystem.pdb
+C:\Users\ADMIN\documents\visual studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form1.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Properties.Resources.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.csproj.GenerateResource.Cache
+C:\Users\ADMIN\documents\visual studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.exe
+C:\Users\ADMIN\documents\visual studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.pdb
+C:\Users\ADMIN\documents\visual studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form2.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form3.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form4.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form5.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form6.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form7.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form8.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form9.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.csprojResolveAssemblyReference.cache
+J:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.exe
+J:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.pdb
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.exe
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.pdb
+E:\NavyManagementSystem\NavyManagementSystem\bin\Debug\NavyManagementSystem.exe
+E:\NavyManagementSystem\NavyManagementSystem\bin\Debug\NavyManagementSystem.pdb
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.csprojResolveAssemblyReference.cache
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form1.resources
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form2.resources
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form3.resources
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form4.resources
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form5.resources
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form6.resources
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form7.resources
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form8.resources
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Form9.resources
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.Properties.Resources.resources
+E:\NavyManagementSystem\NavyManagementSystem\obj\x86\Debug\NavyManagementSystem.csproj.GenerateResource.Cache
